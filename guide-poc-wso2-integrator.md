@@ -147,12 +147,6 @@ version = "2.9.1"
 org = "wso2"
 name = "icp.runtime.bridge"
 version = "0.1.9"
-
-[[platform.java21.dependency]]
-groupId = "org.postgresql"
-artifactId = "postgresql"
-version = "42.7.5"
-path = "libs/postgresql-42.7.5.jar"
 ```
 
 > **Note** : `remoteManagement = true` est requis pour la connexion au WSO2 ICP.
